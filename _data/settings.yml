@@ -1,5 +1,5 @@
 menu:
-- {name: 'people', url: '/people'}
+- {name: 'about', url: '/about'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
@@ -16,10 +16,8 @@ courses:
 - {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/kevinrussellmoy'}
+- {icon: 'linkedin', link: https://www.linkedin.com/in/kevin-russell-moy/}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Kevin Russell Moy', title: 'PhD Candidate', department: 'Energy Resources Engineering', institution: 'Stanford University', institution_address: 'Stanford, California', email: 'kmoy14 [at] stanford [dot] edu', image: 'assets/img/contact.jpg'}
