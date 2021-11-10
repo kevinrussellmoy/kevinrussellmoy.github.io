@@ -5,3 +5,9 @@ featured:
 index:
 - {name: 'Design and validation of synthetic duty cycles for grid energy storage dispatch using lithium-ion batteries. Kevin Moy, Seong Beom Lee, Stephen Harris, Simona Onori', url: 'https://doi.org/10.1016/j.adapen.2021.100065'}
 - {name: 'Characterization and synthesis of duty cycles for battery energy storage used in peak shaving dispatch. Kevin Moy, Seong Beom Lee, Simona Onori', url: 'https://doi.org/10.1115/1.4050192'}
+- {name: '100% clean and renewable wind, water, and sunlight all-sector energy roadmaps for 139 countries of the world. Mark Z. Jacobson et al.', url: 'https://doi.org/10.1016/j.joule.2017.07.005'}
+
+conference:
+- {name: 'An OpenAI-OpenDSS framework for reinforcement learning on distribution-level microgrids. Kevin Moy, Christian Tae, Yubo Wang, Gonzague Henri, Nicholas Bambos, Ram Rajagopal'}
+- {name: 'Characterization of duty cycles for the peak shaving electric grid energy storage application. Kevin Moy, Seong Beom Lee, Simona Onori', url: 'https://doi.org/10.1115/1.4050192'}
+- {name: 'Assessing climate change vulnerability of microgrid systems. Yang Yu, Kevin Moy, William Chapman, Patrick O''Neill, Ram Rajagopal.', url: 'https://doi.org/10.1109/PESGM.2016.7742061'}
