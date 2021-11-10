@@ -17,7 +17,7 @@ courses:
 
 social:
 - {icon: 'github', link: 'https://github.com/kevinrussellmoy'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/kevin-russell-moy/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/kevin-russell-moy'}
 
 contacts:
 - {name: 'Kevin Russell Moy', title: 'PhD Candidate', department: 'Energy Resources Engineering', institution: 'Stanford University', institution_address: 'Stanford, California', email: 'kmoy14 [at] stanford [dot] edu', image: 'assets/img/contact.jpg'}
