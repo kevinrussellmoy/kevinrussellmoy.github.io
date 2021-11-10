@@ -11,6 +11,9 @@
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
     <h3 class="fw-bold border-bottom pt-3 pb-2 mb-5">Conferences</h3>
+      {% for item in site.data.publications.conference %}
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+      {% endfor %}
     {% endif %}
   </div>
 </div>
